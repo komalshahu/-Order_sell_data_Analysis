@@ -15,5 +15,5 @@ This project outlines a step-by-step process for dataset preparation and preproc
 These steps ensure the dataset is clean, consistent, and ready for analysis.
 
 # Data analysis in a Mysql 
-###First import a clean data in a mysql server
-
+##First import a clean data in a mysql server
+https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/import.png
