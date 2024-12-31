@@ -15,5 +15,18 @@ This project outlines a step-by-step process for dataset preparation and preproc
 These steps ensure the dataset is clean, consistent, and ready for analysis.
 
 # Data analysis in a Mysql 
-##First import a clean data in a mysql server
+## First import a clean data in a mysql server
 ![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/import.png)
+
+## Find top 10 highest revenue generating product
+![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/top10.png)
+
+## Find top S highest sel product in each region
+![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/top5.png)
+
+## Month over growth comparison for 2022 and 2023 sales eq : jan 2022 vs jan 2023
+![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/compare.png)
+
+## For each category which month had highest sales
+![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/month.png)
+
