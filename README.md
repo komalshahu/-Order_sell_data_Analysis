@@ -32,7 +32,7 @@ These steps ensure the dataset is clean, consistent, and ready for analysis.
 
 # Creating a dashboard 
 ## creating dashboard using a power bi
-![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/order_dashboard.pdf)
+![](https://github.com/komalshahu/-Order_sell_data_Analysis/blob/main/order_dashboard.jpg)
 
 The dashboard provides various insights into the sales and performance data for different regions, segments, and categories.
 
